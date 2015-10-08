@@ -1,0 +1,21 @@
+Partlist
+
+Exported from Charger.sch at 11/20/2013 9:33:02 PM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package   Library             Sheet
+
++9V      +9V(T)         +9V(T)     SQUARE    gm-supply           1
++18V     +18V(T)        +18V(T)    SQUARE    gm-supply           1
+C1       100uF          0801       080_035_1 gm-caps-electro-pol 1
+C2       10uF           0501       050_020_1 gm-caps-electro-pol 1
+C3       10uF           0501       050_020_1 gm-caps-electro-pol 1
+C4       10uF           0501       050_020_1 gm-caps-electro-pol 1
+D1       1N4001         1N400X.3   DO41-3    gm-diodes           1
+D2       1N5817         1N5817     DO41-3    gm-diodes           1
+D3       1N5817         1N5817     DO41-3    gm-diodes           1
+GND      GND(T)         GND(T)     SQUARE    gm-supply           1
+IC1      MAX1044        MAX1044    DIL08     gm-ics              1
